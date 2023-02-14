@@ -3,3 +3,6 @@
 
 git init 
 touch .gitignore
+
+
+https://digitalvarys.com/git-operations-with-python-scripting/
